@@ -1,0 +1,31 @@
+👁️ Diabetic Retinopathy Detection Using Machine Learning 👁️
+
+I'm excited to share my latest project, "Diabetic Retinopathy Detection Using Machine Learning." 🚀
+
+🌟 Project Overview:
+Title: Diabetic Retinopathy Detection Using Machine Learning
+Diabetic retinopathy (DR) is a critical eye condition that threatens the vision of individuals with diabetes. Detecting DR early is paramount for better patient outcomes. In this project, I developed a machine learning solution for early DR detection using clinical data.
+
+🧩 Key Components:
+Dataset: Clinical features, including QA test, pre-screening test, and MA detection at various alpha values.
+Machine Learning Model: Decision Tree Classifier, chosen for its interpretability and healthcare professional-friendliness.
+Tools and Libraries: Python, Pandas, Scikit-Learn, and Seaborn for data analysis, feature engineering, and model development.
+
+🌍 Impact:
+Early Detection: Empowering early DR detection for timely intervention.
+Enhanced Patient Care: Providing a user-friendly, interpretable tool for healthcare professionals to improve patient well-being.
+
+🤯 Challenges:
+Balancing model simplicity with predictive power.
+Recognizing the necessity of continuous monitoring and updates for real-world deployment.
+
+💡 Outcome:
+This project showcases my commitment to bridging the healthcare-technology divide, ultimately contributing to superior patient care and addressing a pressing healthcare challenge.
+
+🔑 Key Steps in Building ML Models:
+I've also shared the crucial steps in building machine learning models, which can serve as a valuable guide for anyone venturing into this field. 📊
+
+Dive into the project's details on my GitHub : https://github.com/ankita-rvce/Diabetic_Retinopathy-Detection-Using-Machine_Learning.git
+
+#DataScience #HealthTech #MachineLearning #DiabeticRetinopathy #AI #Healthcare #DataAnalysis #ProjectShowcase #LinkedInPost
+
